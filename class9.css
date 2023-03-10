@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-assingment{
+    margin: auto;
+    width: 70%;
+}
+.menu{
+    text-align: center;
+    color: #fff;
+    background: #34495e;
+    font-size: 27px;
+    padding: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.banner{
+    padding: 100px 0px;
+    background: #e67e22;
+    text-align: center;
+}
+.banner img{
+    height: 500px;
+    width: 820px;
+   box-shadow: 19px 19px 15px #fff;
+}
+.title{
+    background: #34495e;
+    text-align: center;
+    padding: 60px 0px;
+}
+.title h1{
+    color: #fff;
+    font-size: 47px;
+    padding: 20px 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.title h5{
+    color:#3384bc;
+    font-size:25px ;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.title p{
+    color:#fff;
+    padding: 8px 0px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.title2{
+    text-align: center;
+    color: #fff;
+    background: #9b59b6;
+    padding: 50px 70px 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.t2{
+    padding: 20px 0px 0px;
+    color: green;
+}
+.t3{
+    color: #e67e22;
+    padding: 5px 0px;
+}
+.t4{
+    color: #9692aa;
+}
+.title3{
+    background: #ff9814;
+    padding: 50px 0px;
+}
+
+.mainbox{
+    width: 550px;
+    height: 125px;
+    background: #dcdcdc;
+    margin: auto;
+    text-align: center;
+    border: 6px dashed rgb(0 0 0 / 65%);
+    box-shadow: 20px 20px 1px #fff;
+    border-radius: 10px;
+}
+
+.mainbox span{
+    color: rgb(3, 0, 0);
+    font-size: 50px;
+    margin-top: 25px;
+    display: inline-block;
+}
+.foter{
+    text-align: center;
+    font-size: 25px;
+    background: #2c3e50;
+    color: #fff;
+    padding: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
